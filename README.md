@@ -1,8 +1,15 @@
 # Calculator
+# Python Calculator
+
 A simple command-line calculator built while learning Python.
 
+## How to run
+python calculator.py
 
-
+## What I learned
+- Functions with def and return
+- if / elif / else
+- while loops and input()
 
 
 def add(a, b):
